@@ -1,6 +1,6 @@
 NS-KAARTAUTOMAAT
 
-BESCHRIJVING: Deze applicatie geeft reizigers de mogelijkheid actuele vertrektijden in te zien van reizen van een beginstation naar een eindstation.
+BESCHRIJVING: Deze applicatie geeft reizigers de mogelijkheid actuele vertrektijden in te zien van een beginstation. Daarnaast ook nog de mogelijkheid om de vertrektijden te zien van een station naar keuze.
 
 INSTALLATIE: De Python bestanden worden geïmplementeerd in Pycharm en vervolgens word het script 'miniproject.py' opgestart. CREDITS: Deze applicatie is gemaakt door Indy, Eric, Muridi, Oussim, Nikos
 

@@ -1,4 +1,4 @@
-NS-KAARTAUTOMAAT
+NS KAARTAUTOMAAT Applicatie
 
 Beschrijving: 
 Deze applicatie geeft reizigers de mogelijkheid actuele vertrektijden in te zien van een beginstation. Daarnaast ook nog de mogelijkheid om de vertrektijden te zien van een station naar keuze.

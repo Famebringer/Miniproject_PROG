@@ -13,4 +13,4 @@ Meer informatie: Meer informatie over dit project met eventuele video's zijn te 
 
 GITHUB https://github.com/Famebringer/Miniproject_PROG/
 
-VIDEO APPLICATIE: #soon
+VIDEO APPLICATIE: https://www.youtube.com/watch?v=dlE9o0lEGQk&feature=youtu.be
